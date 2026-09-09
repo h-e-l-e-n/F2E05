@@ -1,0 +1,11 @@
+### vs code 快捷鍵
+- ctrl+shit+k刪除一整行
+- ctrl+z復原
+- ctrl+f 當前檔案內搜尋
+- ctrl+shift+f 全專案搜尋 
+- ctrl+d 選取相同單字
+- ctrl+p 搜尋檔案
+- tab 增加縮排
+- shift+tab 減少縮排
+- shift+alt+下 / shift+Option+下  複製並貼上一整行
+- ctrl+shift+左或右/ctrl+L 選取整行
