@@ -13,3 +13,9 @@
 - Table相關標籤（講義p55~64）
 - border邊框屬性（講義p97）
 - 文字對齊方式text-align
+## 9/16
+- class, id命名（p87-88）
+- inline, block（p31）
+- `<div>`（p26） 
+- `<p> <span> <br> <a> <hr> <strong> <small> <mark> <time> <q> <blockquote> <pre> <code>`（p32-45）
+- `<dl> <dt> <dd>`(p46)
