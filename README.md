@@ -19,3 +19,8 @@
 - `<div>`（p26） 
 - `<p> <span> <br> <a> <hr> <strong> <small> <mark> <time> <q> <blockquote> <pre> <code>`（p32-45）
 - `<dl> <dt> <dd>`(p46)
+## 9/18
+- 找顏色的網站：[Paletton](https://paletton.com/)、[Happy Hues](https://www.happyhues.co/)、[Coolors](https://coolors.co/)
+- 顏色表示方法(p86)
+- Css reset(p89)
+- Form表單元素(p67~81)
