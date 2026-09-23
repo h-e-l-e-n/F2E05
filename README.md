@@ -24,3 +24,6 @@
 - 顏色表示方法(p86)
 - Css reset(p89)
 - Form表單元素(p67~81)
+## 9/23
+- 多媒體相關標籤(p47-50, 52, 54)：`<img> <video> <source> <track> <figure> <figcaption>`
+- 字幕檔`.vtt`
