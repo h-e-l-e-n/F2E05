@@ -27,3 +27,10 @@
 ## 9/23
 - 多媒體相關標籤(p47-50, 52, 54)：`<img> <video> <source> <track> <figure> <figcaption>`
 - 字幕檔`.vtt`
+## 9/24
+- 多媒體相關標籤(p53-57)：`<audio>、<iframe>、<canvas>、<svg>`
+- 絕對單位、相對單位(p97-98)
+- CSS width, height(p107)
+- CSS overflow(p108)
+- CSS margin, padding(p109-110)
+- Box model (p115-116)
