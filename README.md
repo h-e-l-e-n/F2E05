@@ -34,3 +34,10 @@
 - CSS overflow(p108)
 - CSS margin, padding(p109-110)
 - Box model (p115-116)
+## 10/1
+- 優先級(p94)
+- 複合選擇器(p95)
+- CSS accent-color(p84)
+- 偽類選擇器(p96上半部、p97)
+- CSS文字樣式(p100-101)
+- [iconoir](https://iconoir.com/)
