@@ -60,3 +60,9 @@
 - 定位position(p116)
 - [Flexbox Froggy ](https://flexboxfroggy.com/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
+## 10/14
+- Grid相關樣式(p135-145)
+- object-fit, object-position(p113)
+- box-shadow(p115)
+- aspect-ratio(p114)
+- Grid [花園遊戲](https://codepip.com/games/grid-garden/)
