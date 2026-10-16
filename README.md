@@ -66,3 +66,7 @@
 - box-shadow(p115)
 - aspect-ratio(p114)
 - Grid [花園遊戲](https://codepip.com/games/grid-garden/)
+## 10/16
+- 響應式圖片：`<picture> <source>`(p51)
+- RWD
+- 作業：虎航首頁
