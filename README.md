@@ -70,3 +70,7 @@
 - 響應式圖片：`<picture> <source>`(p51)
 - RWD
 - 作業：虎航首頁
+## 10/21
+- flex排版練習
+- transform(p147-148)
+- transition前兩個(p149)
